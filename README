@@ -1,0 +1,24 @@
+Time Series Prediction:
+
+Name			: 	Sathish Kumar Santhanagopalan
+B-Number		:	B00669012
+B-Mail			: 	ssantha1@binghamton.edu
+File Name		:	time_series.py
+Prediction Model	:	ARIMA
+Forecast Results	:	Output.txt
+Input CSV		:	product_distribution_training_set_transpose.csv  
+
+Specifications:
+
+	Language Used	 : 	Python version 2.7, 
+	Libraries Used	 :	NumPy, Pandas, MatPlotlib, Statsmodels.tsa.arima_model.
+
+Compile and Run:
+
+	1) In command prompt give "python time_series.py" without quotes.
+	2) This will compile and run the file and write the predicted result in Output.txt
+
+Note:
+	1) Please use the product_distribution_training_set_transpose.csv to predict for results. I have transposed the contents of product_distribution_training_set.csv
+	2) Have shown Plotted values of overall sale of all the quantities and stored the results in Output.txt
+
